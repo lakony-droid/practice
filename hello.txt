@@ -1,1 +1,2 @@
 Hello dev
+Adding a new feature
